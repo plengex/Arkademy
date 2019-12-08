@@ -1,0 +1,2 @@
+ini adalah file init,
+saya sedang belajar git
